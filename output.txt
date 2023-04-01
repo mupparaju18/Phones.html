@@ -1,0 +1,9 @@
+munvar
+companies	realme	mi	apple	oneplus
+images				
+Ram	6gb/64gb	8gb/128gb	128gb	12gb/256gb
+Battery	5000mah	4520mah	4500mah	5000mah
+Processor	Mediatek Helio G99	Snapdragon 888 5G	A15 chip	Dual Core 2.4 GHz
+Display	6.4 inch Full HD+AMOLED Display	6.67 inch Full HD+AMOLED Display	6.1 inch Super Retina XDR Display	6.7 inch
+Camera	50 Mp	108 Mp	64 Mp	108 Mp
+Warranty	1 year Manufacture	1 year Manufacture	1 year Manufacture	1 year Manufacture
